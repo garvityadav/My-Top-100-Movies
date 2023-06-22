@@ -2,4 +2,6 @@
 
   TO DO :
 
-  1. I can create front end using react and then
+  1. I can create front end using react.
+  2. Backend with Node and MongoDB.
+  3. Project deadline : 15th of July 2023
